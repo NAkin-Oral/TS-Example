@@ -1,0 +1,12 @@
+{
+  "name": "typescript-learning-project",
+  "version": "1.0.0",
+  "description": "A project to learn TypeScript with HTML and CSS",
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
